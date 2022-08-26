@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Morgan
-- 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning PYTHON/SQL
-- 💞️ I’m looking to collaborate on any interesting project
+- 👀 I’m interested in Software engineering
 - 📫 How to reach me ...+2348037988714
 
 <!---
